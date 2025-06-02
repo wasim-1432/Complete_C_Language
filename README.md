@@ -3,7 +3,7 @@
 Welcome to the **Complete C Language** repository!  
 This repo contains a full set of C programming codes covering all the fundamental and advanced topics — ideal for beginners, students, and anyone revising C.
 
-> 📚 Inspired by MySirG tutorials and personal practice.
+> 📚 Inspired by personal practice.
 
 ---
 
@@ -16,8 +16,7 @@ This repo contains a full set of C programming codes covering all the fundamenta
 - ✅ Strings (Manipulation, Functions)
 - ✅ Functions (User-defined, Recursion)
 - ✅ Pointers (Basics, Arrays with Pointers, Pointer to Pointer)
-- ✅ Structures & Unions
-- ✅ File Handling (Read/Write Files)
+- ✅ Recursion
 - ✅ Dynamic Memory Allocation (malloc, calloc, realloc, free)
 - ✅ Miscellaneous Programs (Pattern printing, Number operations)
 
